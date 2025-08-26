@@ -12,8 +12,8 @@ Builders since 2014.
 
 - [Bluesky](https://bsky.app/profile/jpvillaisaza.com) (@jpvillaisaza.com)
 - [GitHub](https://github.com/jpvillaisaza) (@jpvillaisaza)
-- [Instagram](https://www.instagram.com/jpvillaisaza/) (jpvillaisaza)
-- [Website](https://www.jpvillaisaza.com) (jpvillaisaza.com)
+- [Instagram](https://www.instagram.com/jpvillaisaza/) (@jpvillaisaza)
+- [jpvillaisaza.com](https://www.jpvillaisaza.com)
 
 ---
 
