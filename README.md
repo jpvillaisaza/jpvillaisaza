@@ -17,4 +17,4 @@ Builders since 2014.
 
 ---
 
-![](jpvillaisaza.svg)
+<img src="jpvillaisaza.svg" width="64">
